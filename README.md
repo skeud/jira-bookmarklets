@@ -9,3 +9,4 @@ Jira Bookmarklets
 	* 2/ Calculate the Rough Estimate total for all selected stories in the displayed version (rough_estimate_selected_stories.js)
 	* 3/ Calculate the Story Points total for all stories in the displayed version (story_points_all_stories.js)
 	* 4/ Calculate the Story Points total for all selected stories in the displayed version (story_points_selected_stories.js)
+	* 5/ Calculate the original estimate sum of selected stories (selected_issues_original_estimate.js)
